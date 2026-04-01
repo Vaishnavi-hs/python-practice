@@ -1,1 +1,0 @@
-print("become a sucessful person")
