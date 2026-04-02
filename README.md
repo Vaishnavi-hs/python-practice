@@ -1,4 +1,4 @@
-# Number Analysis Program
+## Day 1 - Number Analysis Program
 
 This program takes input from the user and finds:
 - Largest number
@@ -11,3 +11,17 @@ This program takes input from the user and finds:
 - Logic building using loops and conditions
 - Handling edge cases (like same numbers)
 - Avoiding built-in shortcuts
+- ---
+
+## Day 2 - Pattern Problems
+
+Practiced basic pattern problems using nested loops:
+
+- Left aligned pattern
+- Right aligned pattern
+- Pyramid pattern
+
+## What I learned
+- Controlling loops (outer vs inner)
+- Understanding pattern structure (spaces + stars)
+- Breaking patterns into rows and counts
