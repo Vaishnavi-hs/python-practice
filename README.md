@@ -25,3 +25,31 @@ Practiced basic pattern problems using nested loops:
 - Controlling loops (outer vs inner)
 - Understanding pattern structure (spaces + stars)
 - Breaking patterns into rows and counts
+---
+
+## Day 3 - Logic Problems
+
+Practiced basic number-based problems:
+
+- Factorial using recursion
+- Reverse a number using loop
+- Palindrome check using reverse logic
+- ---
+
+## Day 3 - Logic Problems
+
+Practiced basic number-based problems:
+
+- Factorial using recursion
+- Reverse a number using loop
+- Palindrome check using reverse logic
+
+## What I learned
+- Breaking problems step-by-step
+- Reusing logic (reverse → palindrome)
+- Understanding recursion basics
+
+## What I learned
+- Breaking problems step-by-step
+- Reusing logic (reverse → palindrome)
+- Understanding recursion basics
