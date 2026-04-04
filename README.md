@@ -53,3 +53,17 @@ Practiced basic number-based problems:
 - Breaking problems step-by-step
 - Reusing logic (reverse → palindrome)
 - Understanding recursion basics
+  ---
+
+## Day 4 - Number Problems
+
+Practiced number-based problems:
+
+- Sum of digits
+- Largest digit in a number
+- Armstrong number (generalized)
+
+## What I learned
+- Reusing digit extraction logic
+- Combining multiple concepts (count + power)
+- Writing generalized solutions
