@@ -67,3 +67,17 @@ Practiced number-based problems:
 - Reusing digit extraction logic
 - Combining multiple concepts (count + power)
 - Writing generalized solutions
+---
+
+## Day 5 - Number Problems
+
+Practiced combining multiple concepts:
+
+- Strong number (factorial + digits)
+- Perfect number (divisors + sum)
+- Fibonacci series (sequence generation)
+
+## What I learned
+- Combining multiple logics in one problem
+- Handling edge cases
+- Writing step-by-step solutions
