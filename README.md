@@ -80,4 +80,21 @@ Practiced combining multiple concepts:
 ## What I learned
 - Combining multiple logics in one problem
 - Handling edge cases
-- Writing step-by-step solutions
+- Writing step-by-step solution
+---
+
+## Day 6 - Logic and String Problems
+
+Practiced:
+
+- Smallest digit in a number
+- Largest and smallest digit in one loop
+- Digit frequency
+- Harshad number
+- Duck number
+- Spy number
+
+## What I learned
+- Using strings for simpler checks
+- Combining multiple operations in one loop
+- Improving logical thinking with digit-based problems
