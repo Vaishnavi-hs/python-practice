@@ -36,24 +36,10 @@ Practiced basic number-based problems:
 - Palindrome check using reverse logic
 - ---
 
-## Day 3 - Logic Problems
-
-Practiced basic number-based problems:
-
-- Factorial using recursion
-- Reverse a number using loop
-- Palindrome check using reverse logic
-
 ## What I learned
 - Breaking problems step-by-step
 - Reusing logic (reverse → palindrome)
 - Understanding recursion basics
-
-## What I learned
-- Breaking problems step-by-step
-- Reusing logic (reverse → palindrome)
-- Understanding recursion basics
-  ---
 
 ## Day 4 - Number Problems
 
