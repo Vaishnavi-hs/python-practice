@@ -1,86 +1,26 @@
-## Day 1 - Number Analysis Program
+# Python Practice
 
-This program takes input from the user and finds:
-- Largest number
-- Second largest number
-- Smallest number
-- Second smallest number
-- Sum and average of elements
+This repository contains Python programs and exercises completed while learning programming fundamentals and problem-solving.
 
-## What I learned
-- Logic building using loops and conditions
-- Handling edge cases (like same numbers)
-- Avoiding built-in shortcuts
-- ---
+## Repository Structure
 
-## Day 2 - Pattern Problems
+- Number_Problems
+- Logic_Problems
+- Pattern_Problems
+- Number_Analysis
 
-Practiced basic pattern problems using nested loops:
+## Concepts Covered
 
-- Left aligned pattern
-- Right aligned pattern
-- Pyramid pattern
+- Loops
+- Functions
+- Recursion
+- Number Theory
+- Pattern Printing
+- Problem Solving
 
-## What I learned
-- Controlling loops (outer vs inner)
-- Understanding pattern structure (spaces + stars)
-- Breaking patterns into rows and counts
----
+## Skills Developed
 
-## Day 3 - Logic Problems
-
-Practiced basic number-based problems:
-
-- Factorial using recursion
-- Reverse a number using loop
-- Palindrome check using reverse logic
-- ---
-
-## What I learned
-- Breaking problems step-by-step
-- Reusing logic (reverse → palindrome)
-- Understanding recursion basics
-
-## Day 4 - Number Problems
-
-Practiced number-based problems:
-
-- Sum of digits
-- Largest digit in a number
-- Armstrong number (generalized)
-
-## What I learned
-- Reusing digit extraction logic
-- Combining multiple concepts (count + power)
-- Writing generalized solutions
----
-
-## Day 5 - Number Problems
-
-Practiced combining multiple concepts:
-
-- Strong number (factorial + digits)
-- Perfect number (divisors + sum)
-- Fibonacci series (sequence generation)
-
-## What I learned
-- Combining multiple logics in one problem
-- Handling edge cases
-- Writing step-by-step solution
----
-
-## Day 6 - Logic and String Problems
-
-Practiced:
-
-- Smallest digit in a number
-- Largest and smallest digit in one loop
-- Digit frequency
-- Harshad number
-- Duck number
-- Spy number
-
-## What I learned
-- Using strings for simpler checks
-- Combining multiple operations in one loop
-- Improving logical thinking with digit-based problems
+- Logic Building
+- Algorithmic Thinking
+- Edge Case Handling
+- Python Fundamentals
